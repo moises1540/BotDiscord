@@ -2,7 +2,7 @@
 const axios = require('axios');
 
 const { SlashCommandBuilder } = require('discord.js');
-
+ 
 /*const getPublicIP = async () => {
 	try {
 	  const response = await axios.get('https://api64.ipify.org?format=json');

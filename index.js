@@ -36,8 +36,7 @@ client.distube = new DisTube(client, {
 	emitAddSongWhenCreatingQueue: false,
 	emitAddListWhenCreatingQueue: false,
 	plugins: [
-	new YtDlpPlugin(),
-	new SpotifyPlugin()
+	new YtDlpPlugin()
 	]
   })
 
